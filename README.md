@@ -1,2 +1,2 @@
-# kschuler.github.io
-My personal website
+# eduardojdiniz.github.io
+Eduardo's Personal Website
